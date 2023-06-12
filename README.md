@@ -15,4 +15,7 @@ Monocular 3D object detection:
 ## 연구내용
 학습된 log를 가지고 test를 진행, 추론한 depth를 바탕으로 3d bounding box로 근거리 위험성을 한눈에 볼 수 있도록 함
 
-# project_CSEgrad
+## 결과
+<src = "https://github.com/eehanseul/project_CSEgrad/issues/1#issue-1752135482">
+
+
